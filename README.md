@@ -1,20 +1,16 @@
 ## Hi there Sumi here ! 👋
 <p align="center">
-  <hr>
 
-  <h2><img alt="Trainer" src="https://github.com/sumimaria/sumimaria/blob/main/SumiMariaIcon.png?raw=true" width='40' align="left"/>Hi there! Sumi here ! </h2>
 
   <img align="left" alt="GIF" src="https://github.com/sumimaria/sumimaria/blob/main/SumiMariaIcon.png" width="350" height="250" /><br>
-  ### 🧑‍💻 &nbsp;About Me <br>
-
-
-
-  &nbsp;![like](https://github.com/user-attachments/assets/94bfcf80-d68c-4a17-ade8-fd0147ddd60d)&nbsp; A passionate teacher, trainer and content-writer    
+  ### 💛 &nbsp;About Me <br>
+  &nbsp; 👩🏽‍🏫 &nbsp; A passionate teacher, trainer and content-writer.    
   &nbsp; 💻 &nbsp; I like to learn new concepts, simplify them and help others learn.  
   &nbsp; 🎓 &nbsp; I have done M.Tech in Computer Science from University of Kerala.  
   &nbsp; 🌱 &nbsp; Currently working as Blockchain Trainer.  
   &nbsp; 💬 &nbsp; Feel free to reach out to me.  <br><br>
   &nbsp;[![Twitter](https://raw.githubusercontent.com/ananthanir/ananthanir/dd73d691b8b71ac4eda23d1a655a822653e26f92/twitter.svg)](https://x.com/SumiMaria1/)
+
   
 
   <br><br>
