@@ -4,7 +4,7 @@
 
   <h2><img alt="Trainer" src="https://github.com/sumimaria/sumimaria/blob/main/SumiMariaIcon.png?raw=true" width='40' align="left"/>Hi there! Sumi here ! </h2>
 
-  <img align="left" alt="GIF" src="https://github.com/ananthanir/ananthanir/blob/main/assets/coding.gif" width="350" height="250" /><br>
+  <img align="left" alt="GIF" src="https://github.com/sumimaria/sumimaria/blob/main/SumiMariaIcon.png" width="350" height="250" /><br>
   ### 🧑‍💻 &nbsp;About Me <br>
 
 
