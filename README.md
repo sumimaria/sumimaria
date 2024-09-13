@@ -24,9 +24,10 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
   ### ⚙️ &nbsp;GitHub Analytics
-  
+  <!--
   &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumimaria&layout=compact&show_icons=true" alt="SumiMaria" />
   <hr>
+  -->
 </p>
 
 
